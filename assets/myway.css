@@ -1,0 +1,20 @@
+.todo-titel {
+    font-size: 1.25rem;
+    margin-bottom: 1.4em;
+}
+
+.todo-titel::first-letter {
+    font-size: 1.875rem;
+}
+
+.todo-nav-list {
+    list-style-type: none;
+}
+
+.todo-nav-item {
+    display: inline;
+}
+
+.todo-nav-contact-pict {
+    width: 50vw;
+}
